@@ -1,0 +1,6 @@
+#Menukar Nilai 2 BUah Bilanga
+A=5
+B=10
+print("Sebelum Ditukar : A =",A,"B = ",B)
+A,B=B,A
+print("Setelah Ditukar : A =",A,"B =",B)
